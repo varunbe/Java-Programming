@@ -1,0 +1,4 @@
+interface MyInter
+{
+	void connect();
+}	
